@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "#About"
     link_text: About
-  - link: "#pricing"
-    link_text: Pricing
+  - link: "#projects"
+    link_text: Projects
   - link: "#team"
     link_text: Team
   cta:
