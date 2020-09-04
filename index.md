@@ -18,11 +18,12 @@ page_sections:
   headline: Anna J. Li<br><strong>Computer Science Ph.D. Student at Harvard University<br><br>Former
     Technical Lead at Amazon.com</strong><br>
   content: 'My research focuses on the intersectionality of artificial intelligence
-    and medicine. This semester my research focuses on designing priors for more efficient
+    and medicine. This semester I''m working on designing priors for more efficient
     and robust learning models for mobile health applications. I am currently advised
-    by Professor Finale Doshi-Velez and Professor Susan Murphy.<br><br>I received
-    my undergraduate degree in 2018 in Applied Mathematics: Computer Science Concentration
-    at the University of California, Berkeley. '
+    by Professor Finale Doshi-Velez and Professor Susan Murphy.<br><br>Prior to coming
+    to Harvard, I was a Technical Lead for Amazon.com and I received my undergraduate
+    degree in 2018 in Applied Mathematics: Computer Science Concentration at the University
+    of California, Berkeley.'
   cta:
     enabled: true
     url: https://dtak.github.io/
