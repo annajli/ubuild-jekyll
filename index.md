@@ -68,10 +68,6 @@ page_sections:
     headline: Amazon iOS Mobile Shopping App Redesign
     content: configurable branded, wall-garden experience for ingresses into stores<br>dynamically
       scoped cart, search, and Alexa List functionality
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: simple-footer
   block: footer-1
   content: 'Contact: annajli@g.harvard.edu'
