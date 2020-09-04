@@ -69,8 +69,9 @@ page_sections:
       title="In The News" target="_blank">In The News</a><br>
   col_3:
     headline: Amazon iOS Mobile Shopping App Redesign
-    content: configurable branded, wall-garden experience for ingresses into stores<br>dynamically
-      scoped cart, search, and Alexa List functionality
+    content: -configurable branded, wall-garden experience for ingresses into stores<br>-dynamically
+      scoped cart, search, and Alexa List functionality<br><br><a href="https://techcrunch.com/2020/09/01/amazons-big-redesign-on-ios-to-reach-all-u-s-users-by-month-end/"
+      title="In The News" target="_blank">In The News</a>
 - template: simple-footer
   block: footer-1
   content: 'Contact: annajli@g.harvard.edu'
