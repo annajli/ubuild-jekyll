@@ -75,6 +75,12 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2020/09/04/screen-shot-2020-09-04-at-11-53-38-am.png"
+  navigation:
+  - link: "/"
+    link_text: Home
 
 ---
 foo bar
