@@ -64,7 +64,9 @@ page_sections:
       In-Store Top Navigation Bar"
   col_2:
     headline: Amazon Fresh Free Delivery As a Core Prime Benefit
-    content: contextual incremental ingress on Amazon.com main navigation bar
+    content: -contextual incremental ingress on Amazon.com main navigation bar<br>-shopping
+      eligibility aware "Slot Selection" widget<br><br><a href="https://www.cnbc.com/2019/10/29/amazon-is-making-two-hour-grocery-delivery-free-for-all-prime-members.html#:~:text=Amazon%20is%20making%20two%2Dhour%20grocery%20delivery%20free%20for%20all%20Prime%20members,-Published%20Tue%2C%20Oct&amp;text=Amazon%20Prime%20members%20will%20now,the%20company's%20grocery%20delivery%20service."
+      title="In The News" target="_blank">In The News</a><br>
   col_3:
     headline: Amazon iOS Mobile Shopping App Redesign
     content: configurable branded, wall-garden experience for ingresses into stores<br>dynamically
