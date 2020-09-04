@@ -15,8 +15,8 @@ page_sections:
     link_text: Projects
 - template: hero-banner-w-image
   block: hero-2
-  headline: Anna J. Li<br><strong>1st Year Computer Science Ph.D. Student at Harvard
-    University.<br>Former Technical Lead at Amazon.com</strong><br>
+  headline: Anna J. Li<br><strong>Computer Science Ph.D. Student at Harvard University<br><br>Former
+    Technical Lead at Amazon.com</strong><br>
   content: 'My research focuses on the intersectionality of artificial intelligence
     and medicine. This semester my research focuses on designing priors for more efficient
     and robust learning models for mobile health applications. I am currently advised
