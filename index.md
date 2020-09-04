@@ -29,12 +29,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>About Me<br></strong>I am passionate about the intersectionality
+    of artificial intelligence and medicine."
+  content: 'This semester I''m working on designing priors for more efficient and
+    robust learning models for mobile health applications. I am currently advised
+    by Professor Finale Doshi-Velez and Professor Susan Murphy.<br><br>Prior to coming
+    to Harvard, I was a Technical Lead for Amazon.com and I received my undergraduate
+    degree in 2018 in Applied Mathematics: Computer Science Concentration at the University
+    of California, Berkeley.<br><br>Apart from courses and research, I enjoy piano,
+    Nintendo games, hiking, and spending time with family.'
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2020/09/04/img_7175.JPG"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
