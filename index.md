@@ -24,7 +24,7 @@ page_sections:
     button_text: Resume
   image:
     image: ''
-    alt_text: Home Picture
+    alt_text: ''
   background_image: ''
 - template: content-feature
   block: feature-1
