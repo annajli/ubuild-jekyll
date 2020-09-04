@@ -28,7 +28,7 @@ page_sections:
     url: https://dtak.github.io/
     button_text: Resume
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/09/04/img_0605.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2020/09/04/img_0605.jpg"
 - template: content-feature
