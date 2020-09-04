@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/09/04/anitablack.jpg"
+  logo: "/uploads/2020/09/04/screen-shot-2020-09-04-at-11-53-38-am.png"
   navigation:
   - link: "/"
     link_text: Home
