@@ -29,7 +29,7 @@ page_sections:
     button_text: Resume
   image:
     image: "/uploads/2020/09/04/anitablack.jpg"
-    alt_text: Product Shot
+    alt_text: Home Picture
   background_image: ''
 - template: content-feature
   block: feature-1
