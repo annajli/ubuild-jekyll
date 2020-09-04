@@ -23,7 +23,7 @@ page_sections:
     url: https://dtak.github.io/
     button_text: Resume
   image:
-    image: "/uploads/2020/09/04/anitablack.jpg"
+    image: ''
     alt_text: Home Picture
   background_image: ''
 - template: content-feature
@@ -44,8 +44,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
+  headline: <strong>Projects</strong><span class="light"> to make quick edits throughout
+    your new site</span>
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
