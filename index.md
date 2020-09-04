@@ -33,7 +33,7 @@ page_sections:
     image: "/uploads/2020/09/04/img_7175.JPG"
     alt_text: About Me Photo
   call-to-action:
-    enabled: false
+    enabled: true
     url: https://github.com/annajli
     button_text: Resume
 - template: content-feature
