@@ -65,8 +65,9 @@ page_sections:
     headline: Amazon Fresh Free Delivery As a Core Prime Benefit
     content: contextual incremental ingress on Amazon.com main navigation bar
   col_3:
-    headline: ''
-    content: ''
+    headline: Amazon iOS Mobile Shopping App Redesign
+    content: configurable branded, wall-garden experience for ingresses into stores<br>dynamically
+      scoped cart, search, and Alexa List functionality
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
