@@ -15,7 +15,7 @@ page_sections:
     link_text: Projects
 - template: text-only-hero-banner
   block: hero-1
-  heading: "<strong>Hello.</strong><br>I'm Anna. I'm currently a Computer Science
+  heading: "<strong>Hello.</strong><br>I'm Anna. <br>I'm currently a Computer Science
     Ph.D. Student at Harvard University and Former Technical Lead at Amazon.com."
 - template: content-feature
   block: feature-1
