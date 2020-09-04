@@ -62,8 +62,8 @@ page_sections:
     headline: Whole Foods Market Launch on Amazon.com
     content: QR Code<br>Configurable Navigation Bar
   col_2:
-    headline: ''
-    content: ''
+    headline: Amazon Fresh Free Delivery As a Core Prime Benefit
+    content: contextual incremental ingress on Amazon.com main navigation bar
   col_3:
     headline: ''
     content: ''
