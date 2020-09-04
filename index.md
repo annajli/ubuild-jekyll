@@ -40,7 +40,7 @@ page_sections:
     Nintendo games, hiking, and spending time with family.'
   media:
     image: "/uploads/2020/09/04/img_7175.JPG"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: About Me Photo
 - template: content-feature
   block: feature-1
   media_alignment: Right
