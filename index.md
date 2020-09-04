@@ -32,6 +32,10 @@ page_sections:
   media:
     image: "/uploads/2020/09/04/img_7175.JPG"
     alt_text: About Me Photo
+  call-to-action:
+    enabled: false
+    url: https://github.com/annajli
+    button_text: Resume
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -42,6 +46,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+  call-to-action:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
