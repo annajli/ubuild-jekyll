@@ -13,8 +13,8 @@ page_sections:
     link_text: About
   - link: "#projects"
     link_text: Projects
-  - link: "#team"
-    link_text: Team
+  - link: "#resume"
+    link_text: Resume
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
