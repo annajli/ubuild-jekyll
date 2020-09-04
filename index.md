@@ -28,7 +28,7 @@ page_sections:
     url: https://dtak.github.io/
     button_text: Resume
   image:
-    image: "/uploads/2020/09/04/anitablack.jpg"
+    image: "/uploads/2020/09/04/img_0605.jpg"
     alt_text: Home Picture
   background_image: ''
 - template: content-feature
