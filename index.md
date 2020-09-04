@@ -60,7 +60,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Whole Foods Market Launch on Amazon.com
-    content: QR Code<br>Configurable Navigation Bar
+    content: "-Whole Foods QR Code Native &amp; Webview Bottom Sheet <br>-Configurable
+      In-Store Top Navigation Bar"
   col_2:
     headline: Amazon Fresh Free Delivery As a Core Prime Benefit
     content: contextual incremental ingress on Amazon.com main navigation bar
