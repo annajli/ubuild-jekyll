@@ -69,7 +69,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: 'Contact: annajli@g.harvard.edu'
 
 ---
 foo bar
