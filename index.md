@@ -36,15 +36,23 @@ page_sections:
     enabled: true
     url: https://github.com/annajli
     button_text: Resume
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
   headline: "<strong>Here are some projects I've worked on.</strong>"
   content: ''
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2020/09/04/screen-shot-2020-09-04-at-3-36-20-pm.png"
     alt_text: Customize Blocks
   call-to-action:
+    enabled: false
+    url: ''
+    button_text: ''
+  cta:
     enabled: false
     url: ''
     button_text: ''
