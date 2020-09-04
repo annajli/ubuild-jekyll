@@ -15,15 +15,9 @@ page_sections:
     link_text: Projects
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Hello.</strong><br>I'm Anna. I'm currently a Computer Science
-    Ph.D. Student at Harvard University and Former Technical Lead at Amazon.com.<br>"
-  content: 'My research focuses on the intersectionality of artificial intelligence
-    and medicine. This semester I''m working on designing priors for more efficient
-    and robust learning models for mobile health applications. I am currently advised
-    by Professor Finale Doshi-Velez and Professor Susan Murphy.<br><br>Prior to coming
-    to Harvard, I was a Technical Lead for Amazon.com and I received my undergraduate
-    degree in 2018 in Applied Mathematics: Computer Science Concentration at the University
-    of California, Berkeley.'
+  headline: "<strong>Hello.</strong><br>"
+  content: I'm Anna. I'm currently a Computer Science Ph.D. Student at Harvard University
+    and Former Technical Lead at Amazon.com.<br>
   cta:
     enabled: true
     url: https://dtak.github.io/
