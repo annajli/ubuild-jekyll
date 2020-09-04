@@ -56,12 +56,17 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Whole Foods Market Launch on Amazon.com
+    content: QR Code<br>Configurable Navigation Bar
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
