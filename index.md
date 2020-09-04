@@ -13,19 +13,10 @@ page_sections:
     link_text: About
   - link: "/#projects"
     link_text: Projects
-- template: hero-banner-w-image
-  block: hero-2
-  headline: "<strong>Hello.</strong><br>"
-  content: I'm Anna. I'm currently a Computer Science Ph.D. Student at Harvard University
-    and Former Technical Lead at Amazon.com.<br>
-  cta:
-    enabled: true
-    url: https://dtak.github.io/
-    button_text: Resume
-  image:
-    image: ''
-    alt_text: ''
-  background_image: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: "<strong>Hello.</strong><br>I'm Anna. I'm currently a Computer Science
+    Ph.D. Student at Harvard University and Former Technical Lead at Amazon.com."
 - template: content-feature
   block: feature-1
   media_alignment: Left
