@@ -79,6 +79,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2020/09/04/screen-shot-2020-09-04-at-11-53-38-am.png"
   navigation:
+  - link: "/#about"
+    link_text: About
   - link: "/"
     link_text: Home
 
