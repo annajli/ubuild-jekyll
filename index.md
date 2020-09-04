@@ -21,7 +21,7 @@ page_sections:
   cta:
     enabled: true
     url: https://dtak.github.io/
-    button_text: Visit my Lab's Website
+    button_text: DtAK Lab
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
